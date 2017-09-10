@@ -1,0 +1,3 @@
+- add options to template file via client
+- add change password function
+- add function to import entry from one db to another db
